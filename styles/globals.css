@@ -4,7 +4,7 @@
   --muted: #64748b;
 }
 
-@import "tailwindcss";
+@import "tailwindcss/index.css";
 
 html,
 body,
